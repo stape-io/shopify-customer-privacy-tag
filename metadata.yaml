@@ -1,5 +1,5 @@
 homepage: 'https://stape.io/'
 documentation: 'https://github.com/stape-io/shopify-customer-privacy-tag'
 versions:
-  - sha: 7e9ead200ca6a9a038605d77c14e50b853df30ce
+  - sha: 7e4a3c64d8c27ae6021afb459e0bef43b6f31abd
     changeNotes: Initial release.
