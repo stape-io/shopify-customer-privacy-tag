@@ -37,3 +37,6 @@ If you are using a [custom storefront (headless commerce)](https://shopify.dev/d
 Initial development was done by [Lars Friis](https://www.linkedin.com/in/lars-friis/).
 
 The **Shopify Customer Privacy API Tag for GTM Web** is developed and maintained by the [Stape Team](https://stape.io/) under the Apache 2.0 license.
+
+### GTM Gallery Status
+🟢 [Listed](https://tagmanager.google.com/gallery/#/owners/stape-io/templates/shopify-customer-privacy-tag)
