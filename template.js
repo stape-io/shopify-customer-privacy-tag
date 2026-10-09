@@ -1,5 +1,3 @@
-/// <reference path="./web-gtm-sandboxed-apis.d.ts" />
-
 const callInWindow = require('callInWindow');
 const copyFromWindow = require('copyFromWindow');
 const getContainerVersion = require('getContainerVersion');
